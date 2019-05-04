@@ -2,4 +2,4 @@
 deployment:
  tasks:
   - export DEPLOYPATH=/home/abdian/public_html/github
-  - /bin/cp $DEPLOYPATH
+  - /bin/cp * $DEPLOYPATH
